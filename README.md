@@ -14,6 +14,8 @@
 
 ClickHouse数据库接口。
 
+明镜止水的修改：将版本号改为1.0.1，并且将`clickhouse_database`中的数据表名称改为和vnpy的一致。
+
 ## 使用
 
 ### 全局配置
